@@ -1,0 +1,11 @@
+n the months and years since ChatGPT burst on the scene in November 2022, generative AI (gen AI) has come a long way. Every month sees the launch of new tools, rules, or iterative technological advancements. While many have reacted to ChatGPT (and AI and machine learning more broadly) with fear, machine learning clearly has the potential for good. In the years since its wide deployment, machine learning has demonstrated impact in a number of industries, accomplishing things like medical imaging analysis and high-resolution weather forecasts. A 2022 McKinsey survey shows that AI adoption has more than doubled over the past five years, and investment in AI is increasing apace. It’s clear that generative AI tools like ChatGPT (the GPT stands for generative pretrained transformer) and image generator DALL-E (its name a mashup of the surrealist artist Salvador Dalí and the lovable Pixar robot WALL-E) have the potential to change how a range of jobs are performed. The full scope of that impact, though, is still unknown—as are the risks.
+
+Get to know and directly engage with senior McKinsey experts on generative AI
+Aamer Baig is a senior partner in McKinsey’s Chicago office, Lareina Yee is a senior partner in the Bay Area office, and Alex Singla is a senior partner in the Chicago office and the global leader of QuantumBlack, AI by McKinsey.
+
+We strive to provide individuals with disabilities equal access to our website. If you would like information about this content we will be happy to work with you. Please email us at: McKinsey_Website_Accessibility@mckinsey.com
+Still, organizations of all stripes have raced to incorporate gen AI tools into their business models, looking to capture a piece of a sizable prize. McKinsey research indicates that gen AI applications stand to add up to $4.4 trillion to the global economy—annually. Indeed, it seems possible that within the next three years, anything in the technology, media, and telecommunications space not connected to AI will be considered obsolete or ineffective.
+
+But before all that value can be raked in, we need to get a few things straight: What is gen AI, how was it developed, and what does it mean for people and organizations? Read on to get the download.
+
+To stay up to date on this critical topic, sign up for email alerts on “artificial intelligence” here.
